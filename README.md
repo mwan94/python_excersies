@@ -1,3 +1,3 @@
 # python_excersies
 
-small python excersies
+Automation with Python (Google Certificate Class)
